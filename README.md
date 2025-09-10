@@ -3,7 +3,7 @@
 AI & Machine Learning Engineer specializing in deep learning, computer vision, NLP, and MLOps.  
 I build and deploy intelligent systems that solve real-world problems with scalable and reliable AI solutions.  
 
----
+----
 
 ## Skills  
 - Python, C++, SQL  
