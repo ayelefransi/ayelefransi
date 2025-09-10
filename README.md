@@ -24,8 +24,8 @@ I build and deploy intelligent systems that solve real-world problems with scala
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayelefransi&show_icons=false&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayelefransi&layout=compact&theme=default)  
 
 ---
 
