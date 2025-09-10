@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Fransi  
 
-<!--
-**ayelefransi/ayelefransi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning Engineer specializing in deep learning, computer vision, NLP, and MLOps.  
+I build and deploy intelligent systems that solve real-world problems with scalable and reliable AI solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- Python, C++, SQL  
+- PyTorch, TensorFlow, scikit-learn, Hugging Face  
+- CNNs, Transformers, LLM fine-tuning  
+- Docker, FastAPI, Streamlit, Gradio  
+- MLflow, DVC, GitHub Actions  
+- GCP, AWS, Azure  
+
+---
+
+## Featured Projects  
+- **Brain Tumor Detection** – ResNet50 for classification and U-Net for segmentation, deployed as a full-stack app.  
+- **RAG Chatbot** – Retrieval-augmented chatbot using FAISS and Hugging Face models.  
+- **Plant Disease Detector** – Fine-tuned CNN model with deployment on Streamlit.  
+- **MLOps Pipeline** – End-to-end workflow with MLflow, Docker, and CI/CD.  
+
+---
+
+## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)  
+
+---
+
+## Connect  
+- LinkedIn: [Your Profile]https://www.linkedin.com/in/fransi-mengesha 
+- Email: francyayele@gmail.com  
