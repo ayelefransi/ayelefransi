@@ -30,5 +30,5 @@ I build and deploy intelligent systems that solve real-world problems with scala
 ---
 
 ## Connect  
-- LinkedIn: [Your Profile]https://www.linkedin.com/in/fransi-mengesha 
+- LinkedIn: https://www.linkedin.com/in/fransi-mengesha 
 - Email: francyayele@gmail.com  
