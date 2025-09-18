@@ -1,50 +1,39 @@
-# Hi, I'm Fransi 
+# Hi there, I'm Fransi 👋
 
-**AI & Machine Learning Engineer** specializing in deep learning, computer vision, NLP, and MLOps.  
-I build and deploy intelligent systems that solve real-world problems with scalable and reliable AI solutions.  
-
----
-
-## Skills  
-- **Programming:** Python, C++, SQL  
-- **ML/DL Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
-- **Techniques:** CNNs, Transformers, LLM fine-tuning  
-- **Deployment:** Docker, FastAPI, Streamlit, Gradio  
-- **MLOps:** MLflow, DVC, GitHub Actions  
-- **Cloud:** GCP, AWS, Azure  
+Welcome to my GitHub profile! I am a Machine Learning Engineer specializing in AI, ML, and software development.
 
 ---
 
-##  Featured Projects  
-- **Brain Tumor Detection** – ResNet50 for classification and U-Net for segmentation, deployed as a full-stack app.  
-- **RAG Chatbot** – Retrieval-augmented chatbot using FAISS and Hugging Face models.  
-- **Plant Disease Detector** – Fine-tuned CNN model deployed on Streamlit.  
-- **MLOps Pipeline** – End-to-end workflow with MLflow, Docker, and CI/CD.  
+## 🏆 GitHub Advanced Stats
+
+![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayelefransi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
-##  GitHub Advanced Stats  
+## 📈 GitHub Streak
 
-
-
-<!-- START: GitHub Stats -->
-![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&count_private=true&theme=radical&hide=prs,issues)
-<!-- END: GitHub Stats -->
-
-<!-- START: GitHub Streak -->
-![Fransi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-<!-- END: GitHub Streak -->
-
-<!-- START: Top Languages -->
-![Fransi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=jupyter%20notebook)
-<!-- END: Top Languages -->
-
+![Fransi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayelefransi&theme=radical)
 
 ---
 
-## 📫 Connect with Me  
-- **LinkedIn:** [Fransi Mengesha](https://www.linkedin.com/in/fransi-mengesha)  
-- **Email:** francyayele@gmail.com  
+## 🛠️ Top Languages
+
+![Fransi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayelefransi&layout=compact&theme=radical)
 
 ---
-✨ This profile is customized to showcase my profession as an **AI & ML Engineer**.
+
+## 🌱 Currently Learning
+- Advanced Machine Learning on Google Cloud
+- AI for Cybersecurity
+- Large Language Models and RAG Agents
+
+---
+
+## 📫 How to reach me
+- Email: your-email@example.com
+- LinkedIn: [Fransi](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+
+---
+
+## ⚡ Fun Fact
+I love building AI projects that bridge the gap between research and real-world applications.
