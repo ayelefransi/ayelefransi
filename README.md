@@ -33,6 +33,11 @@ I build and deploy intelligent systems that solve real-world problems with scala
 
 ![Fransi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayelefransi&theme=default&hide_border=true)  
 
+![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fransi&show_icons=true&theme=radical&count_private=true)
+
+![Fransi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fransi&layout=compact&theme=radical&count_private=true)
+
+
 ---
 
 ## 📫 Connect with Me  
