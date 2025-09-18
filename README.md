@@ -1,11 +1,11 @@
-# Hi, I'm Fransi 👋  
+# Hi, I'm Fransi 
 
 **AI & Machine Learning Engineer** specializing in deep learning, computer vision, NLP, and MLOps.  
 I build and deploy intelligent systems that solve real-world problems with scalable and reliable AI solutions.  
 
 ---
 
-## 🛠 Skills  
+## Skills  
 - **Programming:** Python, C++, SQL  
 - **ML/DL Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
 - **Techniques:** CNNs, Transformers, LLM fine-tuning  
@@ -15,7 +15,7 @@ I build and deploy intelligent systems that solve real-world problems with scala
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 - **Brain Tumor Detection** – ResNet50 for classification and U-Net for segmentation, deployed as a full-stack app.  
 - **RAG Chatbot** – Retrieval-augmented chatbot using FAISS and Hugging Face models.  
 - **Plant Disease Detector** – Fine-tuned CNN model deployed on Streamlit.  
@@ -23,14 +23,21 @@ I build and deploy intelligent systems that solve real-world problems with scala
 
 ---
 
-## 📊 GitHub Advanced Stats  
+##  GitHub Advanced Stats  
 
 
-![Fransi's Top Languages](https://github-readme-stats-ayelefransi.vercel.app/api/top-langs/?username=ayelefransi&layout=compact&theme=default&hide_border=true)  
 
-![Fransi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayelefransi&theme=default&hide_border=true)  
+<!-- START: GitHub Stats -->
+![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&count_private=true&theme=radical&hide=prs,issues)
+<!-- END: GitHub Stats -->
 
-![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fransi&theme=radical&count_private=true&hide=issues)
+<!-- START: GitHub Streak -->
+![Fransi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+<!-- END: GitHub Streak -->
+
+<!-- START: Top Languages -->
+![Fransi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=jupyter%20notebook)
+<!-- END: Top Languages -->
 
 
 ---
