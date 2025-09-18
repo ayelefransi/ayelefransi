@@ -1,16 +1,3 @@
-# Hi there, I'm Fransi 👋
-
-Welcome to my GitHub profile! I am a Machine Learning Engineer specializing in AI, ML, and software development.
-
----
-
-![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayelefransi&show_icons=true&theme=radical&count_private=true)
-
-![Fransi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayelefransi&theme=radical)
-
-![Fransi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayelefransi&layout=compact&theme=radical)
-
-
 # Hi there, I'm Fransi 
 
 Welcome to my GitHub profile! I am a **Machine Learning Engineer** specializing in **Artificial Intelligence, Machine Learning, and Software Development**. I focus on delivering robust, scalable, and innovative AI solutions for real-world applications.
