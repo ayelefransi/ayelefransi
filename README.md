@@ -25,17 +25,12 @@ I build and deploy intelligent systems that solve real-world problems with scala
 
 ## 📊 GitHub Advanced Stats  
 
-![Fransi's GitHub Streak](https://streak-stats.demolab.com?user=ayelefransi&theme=default&hide_border=true)  
-
-![Fransi's GitHub Stats](https://github-readme-stats-ayelefransi.vercel.app/api?username=ayelefransi&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=default)  
 
 ![Fransi's Top Languages](https://github-readme-stats-ayelefransi.vercel.app/api/top-langs/?username=ayelefransi&layout=compact&theme=default&hide_border=true)  
 
 ![Fransi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayelefransi&theme=default&hide_border=true)  
 
-![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fransi&show_icons=true&theme=radical&count_private=true)
-
-![Fransi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fransi&layout=compact&theme=radical&count_private=true)
+![Fransi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fransi&theme=radical&count_private=true&hide=issues)
 
 
 ---
