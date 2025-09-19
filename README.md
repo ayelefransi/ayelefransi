@@ -48,7 +48,7 @@ Real-time hand gesture recognition converting sign language into readable text.
 - Live webcam detection  
 - Fast CNN inference for low-latency prediction  
 **Technologies:** CNN, OpenCV, Python  
-[View Details](https://github.com/ayelefransi/sign-language-classification)
+[View Details]https://github.com/ayelefransi/AI-Projects/blob/main/ML%20Project%205%20Sign_Language_Classification.ipynb
 
 ### **RAG Agent Assistant**
 Retrieval-Augmented Generation agent for efficient knowledge management.  
