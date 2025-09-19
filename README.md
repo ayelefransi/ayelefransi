@@ -80,7 +80,7 @@ Comprehensive scripts to automate and optimize ML workflows.
 - **Email:** francyayele@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/fransi-mengesha  
 - **Portfolio:** https://fransimengesha.vercel.app
--**Huggingface:** https://huggingface.co/Francyy7843
+- **Huggingface:** https://huggingface.co/Francyy7843
 - **Kaggle:** https://www.kaggle.com/
 
 ---
