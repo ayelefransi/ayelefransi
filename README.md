@@ -31,7 +31,7 @@ Medical image segmentation system using **U-Net** and **ResNet-50** to accuratel
 - Dice Score evaluation for precise segmentation  
 - Deep Learning and Medical AI applications  
 **Technologies:** U-Net, ResNet-50, TensorFlow, Keras  
-[View Details](https://github.com/ayelefransi/brain-tumor-detection)
+[View Details]https://github.com/ayelefransi/AI-Projects/blob/main/ML%20Project%202%20brain_tumor_segmentation.ipynb
 
 ### **Plant Disease Detection System**
 AI model for classifying crop diseases from leaf images with high accuracy.  
@@ -40,7 +40,7 @@ AI model for classifying crop diseases from leaf images with high accuracy.
 - High classification precision  
 - Agricultural AI and computer vision applications  
 **Technologies:** CNN, TensorFlow, OpenCV  
-[View Details](https://github.com/ayelefransi/plant-disease-detection)
+[View Details]https://github.com/ayelefransi/AI-Projects/blob/main/ML%20Project%203%20Plant%20Disease%20Detection.ipynb
 
 ### **Sign Language Classification System**
 Real-time hand gesture recognition converting sign language into readable text.  
@@ -50,21 +50,9 @@ Real-time hand gesture recognition converting sign language into readable text.
 **Technologies:** CNN, OpenCV, Python  
 [View Details](https://github.com/ayelefransi/sign-language-classification)
 
-### **DeepVisionary AI**
-Platform for real-time object detection and intelligent analysis.  
-[Repository](https://github.com/ayelefransi/deepvisionary)
-
-### **CyberSec AI**
-AI-driven anomaly detection system for cybersecurity applications.  
-[Repository](https://github.com/ayelefransi/cybersec-ai)
-
 ### **RAG Agent Assistant**
 Retrieval-Augmented Generation agent for efficient knowledge management.  
 [Repository](https://github.com/ayelefransi/rag-agent-assistant)
-
-### **ML Automation Toolkit**
-Comprehensive scripts to automate and optimize ML workflows.  
-[Repository](https://github.com/ayelefransi/ml-automation-toolkit)
 
 ---
 
