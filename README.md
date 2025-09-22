@@ -31,7 +31,7 @@ Medical image segmentation system using **U-Net** and **ResNet-50** to accuratel
 - Dice Score evaluation for precise segmentation  
 - Deep Learning and Medical AI applications  
 **Technologies:** U-Net, ResNet-50, TensorFlow, Keras  
-[View Details]https://github.com/ayelefransi/AI-Projects/blob/main/ML%20Project%202%20brain_tumor_segmentation.ipynb
+[View Details] https://github.com/ayelefransi/Advanced-Brain-Tumor-Detection-System-Using-Deep-Learning-Method
 
 ### **Plant Disease Detection System**
 AI model for classifying crop diseases from leaf images with high accuracy.  
