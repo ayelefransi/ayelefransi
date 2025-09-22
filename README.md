@@ -40,7 +40,7 @@ AI model for classifying crop diseases from leaf images with high accuracy.
 - High classification precision  
 - Agricultural AI and computer vision applications  
 **Technologies:** CNN, TensorFlow, OpenCV  
-[View Details]https://github.com/ayelefransi/AI-Projects/blob/main/ML%20Project%203%20Plant%20Disease%20Detection.ipynb
+[View Details] [https://github.com/ayelefransi/Plant-disease-detection-system.git](https://github.com/ayelefransi/Plant-disease-detection-system)
 
 ### **Sign Language Classification System**
 Real-time hand gesture recognition converting sign language into readable text.  
