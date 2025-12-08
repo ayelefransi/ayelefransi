@@ -67,7 +67,7 @@ Retrieval-Augmented Generation agent for efficient knowledge management.
 ##  Connect with Me
 - **Email:** francyayele@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/fransi-mengesha  
-- **Portfolio:** https://fransiayele.vercel.app
+- **Portfolio:** https://fransi-ayele.vercel.app
 - **Huggingface:** https://huggingface.co/Francyy7843
 - **Kaggle:** https://www.kaggle.com/
 
