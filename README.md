@@ -1,6 +1,6 @@
 # Hi there, I'm Fransi 
 
-Welcome to my GitHub profile! I am a **AI Engineer** specializing in **Artificial Intelligence, Machine Learning, and Software Development**. I focus on delivering robust, scalable, and innovative AI solutions for real-world applications.
+Welcome to my GitHub profile! I am a **AI | Software Engineer** specializing in **Artificial Intelligence, Machine Learning, and Software Development**. I focus on delivering robust, scalable, and innovative AI solutions for real-world applications.
 
 ---
 
