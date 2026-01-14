@@ -1,6 +1,6 @@
 # Hi there, I'm Fransi 
 
-Welcome to my GitHub profile! I am a **Machine Learning Engineer** specializing in **Artificial Intelligence, Machine Learning, and Software Development**. I focus on delivering robust, scalable, and innovative AI solutions for real-world applications.
+Welcome to my GitHub profile! I am a **AI Engineer** specializing in **Artificial Intelligence, Machine Learning, and Software Development**. I focus on delivering robust, scalable, and innovative AI solutions for real-world applications.
 
 ---
 
@@ -22,40 +22,6 @@ Welcome to my GitHub profile! I am a **Machine Learning Engineer** specializing 
 
 ---
 
-##  Selected Projects
-
-### **Brain Tumor Detection System**
-Medical image segmentation system using **U-Net** and **ResNet-50** to accurately localize brain tumors from MRI scans.  
-**Highlights:**  
-- Real-time processing with high accuracy  
-- Dice Score evaluation for precise segmentation  
-- Deep Learning and Medical AI applications  
-**Technologies:** U-Net, ResNet-50, TensorFlow, Keras  
-[View Details] https://github.com/ayelefransi/Advanced-Brain-Tumor-Detection-System-Using-Deep-Learning-Method
-
-### **Plant Disease Detection System**
-AI model for classifying crop diseases from leaf images with high accuracy.  
-**Highlights:**  
-- Data augmentation for robust performance  
-- High classification precision  
-- Agricultural AI and computer vision applications  
-**Technologies:** CNN, TensorFlow, OpenCV  
-[View Details] (https://github.com/ayelefransi/Plant-disease-detection-system)
-
-### **Sign Language Classification System**
-Real-time hand gesture recognition converting sign language into readable text.  
-**Highlights:**  
-- Live webcam detection  
-- Fast CNN inference for low-latency prediction  
-**Technologies:** CNN, OpenCV, Python  
-[View Details]https://github.com/ayelefransi/AI-Projects/blob/main/ML%20Project%205%20Sign_Language_Classification.ipynb
-
-### **RAG Agent Assistant**
-Retrieval-Augmented Generation agent for efficient knowledge management.  
-[Repository](https://github.com/ayelefransi/rag-agent-assistant)
-
----
-
 ##  Key Achievements
 - Developed and deployed multiple AI/ML systems on cloud platforms with production-level reliability  
 - Contributed to open-source ML libraries with advanced feature implementations  
@@ -70,10 +36,4 @@ Retrieval-Augmented Generation agent for efficient knowledge management.
 - **Portfolio:** https://fransi-ayele.vercel.app
 - **Huggingface:** https://huggingface.co/Francyy7843
 - **Kaggle:** https://www.kaggle.com/
-
----
-
-##  Fun Fact
-I create AI solutions that **turn cutting-edge research into actionable, real-world applications**, optimizing performance, scalability, and impact.
-
 ---
