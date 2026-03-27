@@ -1,14 +1,1 @@
-<div align="center">
-
-<a href="https://fransi-ayele.vercel.app" target="_blank">
-  <img 
-    src="https://api.microlink.io/?url=https://fransi-ayele.vercel.app&embed=screenshot.url&meta=false&screenshot=true&colorScheme=dark" 
-    width="100%" 
-  />
-</a>
-
-<br/>
-
-<h2> View Full Portfolio</h2>
-
-</div>
+<img width="1549" height="855" alt="image" src="https://github.com/user-attachments/assets/5c999d3f-18e1-4e57-81a9-66851df41ebc" />
