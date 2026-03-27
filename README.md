@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I am  **AI | Software Engineer** specializing in *
 ---
 
 ##  Connect with Me
-- **Email:** francyayele@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/fransi-mengesha  
+- **Email:** francyayele@gmail.com   
 - **Portfolio:** https://fransi-ayele.vercel.app
 - **Huggingface:** https://huggingface.co/Francyy7843
 - **Kaggle:** https://www.kaggle.com/
