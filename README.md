@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:0a0a2e,100:000000&height=250&section=header&text=Fransi%20Ayele&fontSize=72&fontColor=00f5ff&fontAlignY=42&stroke=00f5ff&strokeWidth=2&desc=AI%20%7C%20ML%20Engineer%20%20•%20%20Software%20Developer&descColor=7b2fff&descAlignY=62&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=⚡+LLMs+%26+RAG+Architecture;🧠+Computer+Vision+%26+Medical+Imaging+AI;🔐+AI+for+Cybersecurity+%26+Intelligent+Systems;☁️+End-to-End+ML+Pipelines+on+GCP+%2F+AWS;🤗+Open-Source+ML+Contributor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=⚡+LLMs+%26+RAG+Architecture;🧠+Computer+Vision+%26+Medical+Imaging+AI;+AI+for+Cybersecurity+%26+Intelligent+Systems;☁️+End-to-End+ML+Pipelines+on+GCP+%2F+AWS;🤗+Open-Source+ML+Contributor" alt="Typing SVG"/>
 </a>
+<img width="1301" height="509" alt="image" src="https://github.com/user-attachments/assets/b2c5c0f9-a18a-4b71-a0af-b739954d65d3" />
 
 <br/><br/>
 
